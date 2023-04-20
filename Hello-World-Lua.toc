@@ -1,0 +1,6 @@
+## Interface: 48999
+## Title: Hello World Lua |cff69ccf0by Marwan Al-Obaidi|r
+## Notes: My first addon for World of Warcraft that prints Hello World! in the chat.
+## Author: Marwan Al-Obaidi
+
+Hello-World-Lua.lua
